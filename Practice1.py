@@ -16,7 +16,7 @@ def fun(sent):
     return dict
 
 
-fun("this is the total number of words in the string")
+fun("this is the total number of words in the string test")
 
 
 def fun2(string1):
